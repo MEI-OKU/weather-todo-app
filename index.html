@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>お天気＋ToDo（MVP）</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <h1>お天気＋ToDo</h1>
+
+  <!-- 都市設定 -->
+  <section id="settings">
+    <form id="city-form">
+      <label for="cityInput">都市名：</label>
+      <input id="cityInput" placeholder="Sapporo" value="Sapporo" />
+      <button id="saveCityBtn" type="submit">都市を保存</button>
+    </form>
+  </section>
+
+  <!-- 新規タスク追加 -->
+  <section id="newTask">
+    <form id="task-form">
+      <input id="titleInput" type="text" placeholder="タスク名" />
+      <input id="dateInput" type="date" />
+      <input id="timeInput" type="time" />
+      <button id="addBtn" type="submit">追加</button>
+    </form>
+  </section>
+
+  <!-- タスクリスト -->
+  <section id="tasks">
+    <ul id="list"></ul>
+  </section>
+
+  <!-- ステータスメッセージ -->
+  <p id="status" hidden></p>
+
+  <script src="main.js"></script>
+</body>
+</html>
