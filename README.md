@@ -57,8 +57,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 💡 ヒント
-- スクリーンショット画像は  
-  `/assets/images/screenshot-hero.png` に保存してリンク。  
-- GitHub Pages 公開URLは  
-  [https://mei-oku.github.io/weather-todo-app/](https://mei-oku.github.io/weather-todo-app/)
+## 📸 スクリーンショット
+
+![メイン画面](assets/images/screenshot-hero.png)
+![アプリプレビュー](assets/images/app-preview.png)
+
+🔗 [GitHub Pagesで実際に開く](https://mei-oku.github.io/weather-todo-app/)
