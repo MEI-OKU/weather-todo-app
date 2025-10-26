@@ -1,7 +1,3 @@
-🔗 **Live Demo:** [https://mei-oku.github.io/weather-todo-app/](https://mei-oku.github.io/weather-todo-app/)
-
-
-
 # 🌤️ お天気＋ToDo（MVP）
 
 ![screenshot](assets/images/screenshot-hero.png)  
@@ -41,7 +37,11 @@
 ---
 
 ## 📸 スクリーンショット
-![app-preview](assets/images/app-preview.png)
+
+![メイン画面](assets/images/screenshot-hero.png)
+![アプリプレビュー](assets/images/app-preview.png)
+
+🔗 [GitHub Pagesで実際に開く](https://mei-oku.github.io/weather-todo-app/)
 
 ---
 
@@ -54,12 +54,3 @@
 
 ## ⚖️ ライセンス
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 📸 スクリーンショット
-
-![メイン画面](assets/images/screenshot-hero.png)
-![アプリプレビュー](assets/images/app-preview.png)
-
-🔗 [GitHub Pagesで実際に開く](https://mei-oku.github.io/weather-todo-app/)
