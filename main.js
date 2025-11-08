@@ -1,7 +1,6 @@
 // ===== main.js (drop-in) =====
 
-// ⚠️ 本番は必ずキー制限 or プロキシ経由にしてください
-const OWM_KEY = '9288bc648348013f1b01dc60ce985a26';
+const OWM_KEY = 'KEY';
 
 // ---- DOM参照 ----
 const $ = (sel) => document.querySelector(sel);
