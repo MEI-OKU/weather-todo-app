@@ -1,6 +1,6 @@
 // ===== main.js (drop-in) =====
 
-const OWM_KEY = 'KEY';
+const OWM_KEY = '59e48c0c7f2f08f2e8503df5be19f555';
 
 // ---- DOM参照 ----
 const $ = (sel) => document.querySelector(sel);
